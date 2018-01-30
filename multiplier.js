@@ -3,3 +3,5 @@ function multiplier(factor) {
         return number * factor
     }
 }
+
+var twice = multiplier(2);
