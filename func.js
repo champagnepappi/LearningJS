@@ -6,4 +6,4 @@ function kevin(n){
   }
   return console.log(text)
 }
-kevin(4)
+kevin("me")
